@@ -59,4 +59,4 @@ python vision_researcher.py https://screenshotone.com "Does the website page or 
 
 The results will be printed in the console:
 
-[The results of the research.](./screenshot.png)
+![The results of the research.](./screenshot.png)
