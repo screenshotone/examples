@@ -2,6 +2,8 @@
 
 It is a demonstration application that uses [ScreenshotOne API—the best screenshot API](https://screenshotone.com) to render [scrolling screenshots of Google Slides presentations](https://screenshotone.com/scrolling-screenshots/).
 
+A guide with more details on how to render Google Slides as scrolling screenshots is available in the [ScreenshotOne documentation](https://screenshotone.com/docs/guides/google-slides-as-scrolling-screenshots/).
+
 Check out more examples in the [ScreenshotOne examples](https://github.com/screenshotone/examples) repository.
 
 ## How it works
