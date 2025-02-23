@@ -32,20 +32,26 @@ The code was written with the help of [Cursor](https://www.cursor.com/) as speci
 git clone https://github.com/screenshotone/examples.git
 ```
 
-2. Install the dependencies:
+2. Go to the `examples/python/vision-researcher` directory:
+
+```bash
+cd examples/python/vision-researcher
+```
+
+3. Install the dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Create a `.env` file and set the following environment variables:
+4. Create a `.env` file and set the following environment variables:
 
 ```bash
 SCREENSHOTONE_API_KEY=your_screenshotone_api_key
 OPENAI_API_KEY=your_openai_api_key
 ```
 
-4. Run the application:
+5. Run the application:
 
 ```bash
 python vision_researcher.py <url> <prompt> <max pages>
