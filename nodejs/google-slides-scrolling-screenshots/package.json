@@ -1,0 +1,20 @@
+{
+  "name": "google-slides-scrolling-screenshots",
+  "version": "1.0.0",
+  "description": "A script to create scrolling screenshots of Google Slides presentations using ScreenshotOne API",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc && node dist/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+} 
