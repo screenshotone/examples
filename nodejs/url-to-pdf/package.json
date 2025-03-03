@@ -1,0 +1,21 @@
+{
+  "name": "url-to-pdf",
+  "version": "1.0.0",
+  "description": "A simple Node.js program to render a URL as PDF using ScreenshotOne API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": [
+    "pdf",
+    "screenshot",
+    "screenshotone",
+    "url-to-pdf"
+  ],
+  "author": "",
+  "license": "MIT"
+} 

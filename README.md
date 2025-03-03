@@ -9,6 +9,7 @@ All examples contain a README with instructions on how to build and run them.
 ### Node.js
 
 1. [Google Slides Scrolling Screenshots](./nodejs/google-slides-scrolling-screenshots) is a simple application that uses ScreenshotOne API to render scrolling screenshots of Google Slides presentations.
+2. [URL to PDF](./nodejs/url-to-pdf) is a simple application that uses ScreenshotOne API to render a URL as PDF.
 
 ### Python
 
