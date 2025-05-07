@@ -4,6 +4,8 @@ It is a demonstration application that uses [ScreenshotOne API—the best screen
 
 A guide with more details on how to render Google Slides as scrolling screenshots is available in the [ScreenshotOne documentation](https://screenshotone.com/docs/guides/google-slides-as-scrolling-screenshots/).
 
+[You can also screenshot Google Documents with ScreenshotOne.](https://screenshotone.com/docs/guides/screenshot-google-docs/). Both rendering Google Slides and Google Documents are available out-of-the-box.
+
 Check out more examples in the [ScreenshotOne examples](https://github.com/screenshotone/examples) repository.
 
 ## How it works
