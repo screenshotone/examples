@@ -10,6 +10,7 @@ All examples contain a README with instructions on how to build and run them.
 
 1. [Google Slides Scrolling Screenshots](./nodejs/google-slides-scrolling-screenshots) is a simple application that uses ScreenshotOne API to render scrolling screenshots of Google Slides presentations. It was built for demonstration purposes. You can screenshot [Google Documents](https://screenshotone.com/docs/guides/screenshot-google-docs/) or [Google Slides](https://screenshotone.com/docs/guides/google-slides-as-scrolling-screenshots/) with ScreenshotOne out-of-the-box.
 2. [URL to PDF](./nodejs/url-to-pdf) is a simple application that uses ScreenshotOne API to render a URL as PDF.
+3. [Bulk Screenshots](./nodejs/bulk-screenshots) is a simple application that uses ScreenshotOne API to take screenshots of multiple URLs.
 
 ### Python
 
